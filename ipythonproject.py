@@ -11,6 +11,7 @@ devs = [
     # ('Evan Patterson', 'epatters.jpg'),
     ('Kyle Kelley', 'rgbkrk.jpg'),
     ('Damian Avila', 'damianavila.jpg'),
+    ('Jessica Hamrick', 'jhamrick.jpg')
     # ('Brad Froehle', 'brad.jpg'),
     # ('Zach Sailer', 'zsailer.jpg'),
     # ('Robert Kern', 'rkern.jpg'),
